@@ -3,7 +3,7 @@
 <suite source="C:\Users\etwxxbe\Documents\Motorola\Motorola_NKD\Motorola_NKD\Example.robot" id="s1" name="Example">
 <test id="s1-t1" name="NK_MAKE_ADJUSTMENT_CREATE">
 <kw name="Create Session" library="RequestsLibrary">
-<doc>Create Session: create a HTTP session to a server</doc>
+<doc>Create Session: create a HTTP session to a server etwxxbe</doc>
 <arguments>
 <arg>Make_Adjustment_Create_Session</arg>
 <arg>${BASE_URL}</arg>
